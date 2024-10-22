@@ -1,0 +1,8 @@
+1. What is animation ?
+2. Css Animation and Afer Before
+3. Gsap
+4. Scroll Trigger
+5. Locomotive js
+6. Lenis
+7. Swipper js
+8. React Animation with Framer Motion
